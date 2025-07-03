@@ -1,5 +1,5 @@
 body {
-  background-color: #d1a980;
+  background-color: #f0f0f0;
 }
 
 .picture {
@@ -14,4 +14,11 @@ body {
   body {
     font-size: 1.125rem;
   }
+}
+
+.picture {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  width: 100rem;
 }
