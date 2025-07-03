@@ -1,0 +1,17 @@
+body {
+  background-color: #d1a980;
+}
+
+.picture {
+  margin-bottom: 10px;
+}
+
+.rounded {
+  background-color: #748873;
+}
+
+@media (min-width: 768px) {
+  body {
+    font-size: 1.125rem;
+  }
+}
