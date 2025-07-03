@@ -22,3 +22,7 @@ body {
   display: block;
   width: 100rem;
 }
+
+.fallout {
+  font-weight: 600;
+}
